@@ -3,7 +3,7 @@ layout: post
 title: Temp
 ---
 
-What do you think being a data scientist is about?  
+-What do you think being a data scientist is about?  
 
 What do you see as the major duties and/or knowledge areas?  
 
