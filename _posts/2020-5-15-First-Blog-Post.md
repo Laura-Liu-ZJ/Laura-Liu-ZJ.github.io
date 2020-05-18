@@ -27,7 +27,7 @@ Data scientists need to know three parts of knowledge: computer science, mathema
   - Using predictive modeling to enhance and optimize customer experiences, revenue generation, ad targeting etc.
 
 ### What differences/similarities do you see between data scientists and statisticians?  
--Differences between data scientists and statisticians:
+- Differences between data scientists and statisticians:
   - Modeling processes: Data scientists focus on the predictive accuracy of the model by comparing the predictive accuracy of different machine learning algorithms and selecting the model with the best accuracy, but statisticians would start with simple model, such as linear regression, where the data is verified to determine whether it is consistent with the assumptions of the model. The model is improved by addressing assumptions in the model that are violated. The modeling process is considered complete when all model assumptions are verified and no assumptions are violated.
   - Size of data consumed: Data scientists would face to massive data, however, statisticians would deal with more traditional and smaller scale methods of data collection.
   - Types of problems studied: Data scientists solve specific problems by following the “data science process” that is more approachable; data ingest, data transformation, exploratory data analysis, model selection, model evaluation, and data storytelling. While statisticians could deeply understand academic statistics by dealing with nebulous concepts like point estimates, MOE, CI, SE, p-values, hypothesis testing.
