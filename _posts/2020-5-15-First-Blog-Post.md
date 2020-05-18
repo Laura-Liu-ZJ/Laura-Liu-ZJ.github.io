@@ -2,10 +2,12 @@
 layout: post
 title: Response to Data Science articles 
 ---
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
 ### What do you think being a data scientist is about?  
 I think data scientists are about translating business problems into more of a technical model and being able to then output a model that can take in a certain set of attributes about a customer and then spit out some sort of result. 
 In brief, they bridge programming and statistics, and statistics and products. 
