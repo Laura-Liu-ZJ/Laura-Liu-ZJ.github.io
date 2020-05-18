@@ -3,13 +3,16 @@ layout: post
 title: Response to Data Science articles 
 ---
 
-| First Header|Second Header |
-
-| ------------- | ------------- |
-
-| Content Cell  | Content Cell  |
-
-| Content Cell  | Content Cell  |
+\begin{center}
+\captionof{table}{Transformations Associated with the Johnson System}
+\begin{tabular}{|l|l|l|l|}
+\hline
+Johnson Family & Transformation & Parameter Conditions & X Condition \\ \hline
+$S_B$ & $Z=\gamma + \eta ln(\frac {X - \epsilon} {\lambda + \epsilon - X})$ & $\eta, \lambda >0, -\infty < \gamma, \epsilon < \infty$ & $\epsilon < X < \epsilon + \lambda$ \\ \hline
+$S_L$ & $Z=\gamma + \eta ln(X - \epsilon)$ & $\eta >0, -\infty < \gamma, \epsilon < \infty$ & $X > \epsilon$ \\ \hline
+$S_U$ & $Z=\gamma + \eta \sinh^{-1}(\frac {X - \epsilon} {\lambda})$ & $\eta, \lambda >0, -\infty < \gamma, \epsilon < \infty$ & $-\infty < X < \infty$ \\ \hline
+\end{tabular}
+\end{center}
 
 ### What do you think being a data scientist is about?  
 I think data scientists are about translating business problems into more of a technical model and being able to then output a model that can take in a certain set of attributes about a customer and then spit out some sort of result. 
