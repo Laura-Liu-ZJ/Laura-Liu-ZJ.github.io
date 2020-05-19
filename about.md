@@ -6,17 +6,17 @@ permalink: /about/
 
 ### Education backgroud
 
-| Course Number | Course Name |
-| :-------------: | ------------- |
-| ST 501 | Fundamentals of Statistical Inference I | 
-| ST 502 | Fundamentals of Statistical Inference II|
-| ST 517 | Content Cell |
-| ST 590 | Content Cell |
-| ST 555 | Content Cell |
-| ST 556 | Content Cell |
-| ST 537 | Content Cell |
-| ST 542 | Content Cell |
-| ST 558 | Content Cell |
+ Course Number | Course Name 
+ :-------------: | ------------- 
+ ST 501 | Fundamentals of Statistical Inference I  
+ ST 502 | Fundamentals of Statistical Inference II
+ ST 517 | Applied Statistical Methods I
+ ST 590 | Applied Statistical Methods II 
+ ST 555 | Statistical Programming I
+ ST 556 | Statistical Programming II
+ ST 537 | Applied Multivariate and Longitudinal Data Analysis
+ ST 542 | Statistical Practice 
+ ST 558 | Data Science for Statisticians
 
 ### Contact me
 
