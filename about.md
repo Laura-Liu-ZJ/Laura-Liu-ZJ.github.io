@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-### Education backgroud
+### [Education backgroud](https://www.acs.ncsu.edu/php/coursecat/directory.php?subject=ST#course-search-results)
+> I am in the traditional master's program of statistics, and I plan to graduate at the end of this year.
 
  Course Number | Course Name 
  :-------------: | ------------- 
