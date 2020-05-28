@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Blog (updated)
+output:
+  html_document:  
+    toc: yes
+    toc_depth: 1
+    toc_float: yes  
 ---
 ## Blog 2: Response to the prompts
 ### What are your thoughts on R vs whatever other software you've used?  
