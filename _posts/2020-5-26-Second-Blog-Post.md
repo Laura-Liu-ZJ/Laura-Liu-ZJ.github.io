@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Blog (updated)
-output:
-  html_document:  
-    toc: yes
-    toc_depth: 1
-    toc_float: yes  
 ---
+
 ## Blog 2: Response to the prompts
 ### What are your thoughts on R vs whatever other software you've used?  
 I study SAS in ST555 and ST556, sometimes I would compare the SAS language and R language, which helps me to better understand these two languages. For example, the variable inside the R function is like the local variable in SAS macro function, which helps me to understand we cannot use the local variable outside. 
