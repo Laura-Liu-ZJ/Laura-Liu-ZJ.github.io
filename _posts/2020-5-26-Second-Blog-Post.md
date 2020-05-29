@@ -5,10 +5,10 @@ title: Blog (updated)
 
 <ul class="nav nav-tabs" role="tablist">
 	<li role="presentation" class="active">
-		<a role="tab" data-toggle="tab" href="#first-tab" aria-controls="first-tab">Blog 2: Response to the prompts</a>
+		<a role="tab" data-toggle="tab" href="##first-tab" aria-controls="first-tab">Blog 1: Response to the articles</a>
 	</li>
 	<li role="presentation">
-		<a role="tab" data-toggle="tab" href="#second-tab" aria-controls="second-tab"> Blog 1: Response to the articles</a>
+		<a role="tab" data-toggle="tab" href="##second-tab" aria-controls="second-tab">Blog 2: Response to the prompts </a>
 	</li>
 </ul>
 
