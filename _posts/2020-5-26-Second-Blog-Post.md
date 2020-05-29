@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Blog (updated)
+title: Laura's Blog (updated)
 ---
 
 <ul class="nav nav-tabs" role="tablist">
 	<li role="presentation" class="active">
-		<a role="tab" data-toggle="tab" href="##first-tab" aria-controls="first-tab">Blog 1: Response to the articles</a>
+		<a role="tab" data-toggle="tab" href="## Blog 1: Response to the articles" aria-controls="first-tab">Blog 1</a>
 	</li>
 	<li role="presentation">
-		<a role="tab" data-toggle="tab" href="##second-tab" aria-controls="second-tab">Blog 2: Response to the prompts </a>
+		<a role="tab" data-toggle="tab" href="## Blog 2: Response to the prompts" aria-controls="second-tab">Blog 2</a>
 	</li>
 </ul>
 
