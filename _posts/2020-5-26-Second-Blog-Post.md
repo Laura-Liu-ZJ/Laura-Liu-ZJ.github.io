@@ -2,11 +2,25 @@
 layout: post
 title: Laura's Blog (updated)
 ---
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p>
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
 </div>
 
 ## Blog 2: Response to the prompts
