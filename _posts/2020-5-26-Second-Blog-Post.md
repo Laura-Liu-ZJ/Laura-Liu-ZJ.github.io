@@ -3,6 +3,15 @@ layout: post
 title: Blog (updated)
 ---
 
+<ul class="nav nav-tabs" role="tablist">
+	<li role="presentation" class="active">
+		<a role="tab" data-toggle="tab" href="#first-tab" aria-controls="first-tab">Blog 2: Response to the prompts</a>
+	</li>
+	<li role="presentation">
+		<a role="tab" data-toggle="tab" href="#second-tab" aria-controls="second-tab"> Blog 1: Response to the articles</a>
+	</li>
+</ul>
+
 ## Blog 2: Response to the prompts
 ### What are your thoughts on R vs whatever other software you've used?  
 I study SAS in ST555 and ST556, sometimes I would compare the SAS language and R language, which helps me to better understand these two languages. For example, the variable inside the R function is like the local variable in SAS macro function, which helps me to understand we cannot use the local variable outside. 
@@ -61,3 +70,4 @@ I believe that I am more relevant to statisticians now, and the following list s
 - [x] the types of problems studyied: I have done the data ingest, data transformation, exploratory data analysis, model selection, and data storytelling, I also deal with nebulous concepts like point estimates, MOE, CI, SE, p-values, hypothesis testing.
 - [x] the academic background: I am in the master of statistics program.
 - [ ] terminology : I use the “observation”, “predictor” or “independent variable” and “response”or “dependent variable”.
+
