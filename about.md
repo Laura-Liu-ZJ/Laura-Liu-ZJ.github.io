@@ -4,20 +4,22 @@ title: About
 permalink: /about/
 ---
 
-### [Education backgroud](https://www.acs.ncsu.edu/php/coursecat/directory.php?subject=ST#course-search-results)
-> I am in the traditional master's program of statistics, and I plan to graduate at the end of this year.
+### Discussion on this project
 
- Course Number | Course Name 
- :-------------: | ------------- 
- ST 501 | Fundamentals of Statistical Inference I  
- ST 502 | Fundamentals of Statistical Inference II
- ST 517 | Applied Statistical Methods I
- ST 590 | Applied Statistical Methods II 
- ST 555 | Statistical Programming I
- ST 556 | Statistical Programming II
- ST 537 | Applied Multivariate and Longitudinal Data Analysis
- ST 542 | Statistical Practice 
- ST 558 | Data Science for Statisticians
+1. what would you do differently?
+
+- I get data from the API.
+- I use the EDA part to know the data better.
+- I create some variables to help my analysis.
+- I treat the same variable as categorical data and numeric data.
+
+2. what was the most difficult part for you?
+
+I think the most difficult part for me is to understand the story behind the data because I know nothing on the hokey. It would be better to have a codebook or labels of variables telling me all the information about data.
+
+3. what are your big take-aways from this project?
+
+I know better about JSON data as well as EDA procession, and I master better on ggplot than before.
 
 ### Contact me
 
