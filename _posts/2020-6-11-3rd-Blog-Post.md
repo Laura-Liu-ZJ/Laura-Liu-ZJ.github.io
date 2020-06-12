@@ -34,5 +34,5 @@ The last part is the conclusion from the above analyses, which shows the "best" 
 3. Conclusion
 
 ## Vignettes
-Here is the link of [my frist Project].(https://laura-liu-zj.github.io/ST558Project1/)
+Here is the link of [my frist Project](https://laura-liu-zj.github.io/ST558Project1/).
 
