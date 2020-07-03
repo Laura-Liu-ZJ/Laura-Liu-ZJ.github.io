@@ -4,18 +4,21 @@ title: Project 2
 ---
 
 ## Outline
-This project includes three parts, the first part is an introduction, which response to describing the JSON and discussing the possible packages/functions that are available for reading JSON data into R. This part also contains the introduction of NHL and NHL Data. To study the NHL data, I get the 5 JSON data sets from API. And reorganize those data sets by selecting some variables, creating some variables, and combining relevant data sets. 
+This project includes seven parts, the first part is a brief introduction of the data, the purpose, and the methods I used in this project. Second part is the detailed description of data, including potential predictors I cared about and fitted linear variables selected by mallow’s cp and BIC. The thrid part is about summarizations, which contains the correlation analysis of fitted linear variables, summary statistics of potential predictors, and calculation of accuracy for original data by contingency table.
 
-The second part is the processes of Exploratory Data Analysis (EDA). In this project, I picked out the "best" franchise and the "worst" franchise according to the EDA part for teamtotalData and seasonData. Then I also tried EDA on the differences between the "best" franchise and the "worst" franchise from goalieData and skaterData. 
+The next part is modeling, we use logistic regression to fit our fitted data set (subset of training data set) and bagged tree to fit our training data set, and then we calculate the accuracy of each model for training data set. Then we use above model to fit our testing data set and calculate the accuracy of each model for testing data set. 
 
-The last part is the conclusion from the above analyses, which shows the "best" franchise is Golden Knights (ID: 38) and the "worst" franchise is Coyotes (ID: 28), which might because of the number of goalie and skater, the goalies' ability of resistance and the skaters' aggressive assists.
+In the models comparison part, we combine the accuracy using two models for each data set. Then we calculate the misclassification rate to get the best model. And we find that the bagged tree model fit testing data set better on Monday data and Saturday data, but logistic regression fit testing data set better on other 5 weekdays data.
 
 ## Reflection
-### what would you do diﬀerently? 
+### what would you do differently? 
+The automation process is a different method for me to output data.
 
-### what was the most diﬃcult part for you? 
+### what was the most difficult part for you? 
+I think the most difficult part is to select the potential variables because it is totally subjective, and I do not want that to influence too much on model building.
 
 ### what are your big take-aways from this project?
+I have done the automation process and learned how to use mallow's cp and BIC to select variables.
 
 ## Project Content
 Here is the link of [my second Project](https://laura-liu-zj.github.io/ST558Project2/).
