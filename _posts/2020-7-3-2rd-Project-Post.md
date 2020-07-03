@@ -18,5 +18,5 @@ The last part is the conclusion from the above analyses, which shows the "best" 
 ### what are your big take-aways from this project?
 
 ## Project Content
-Here is the link of [my second Project](https://https://laura-liu-zj.github.io/ST558Project2/).
+Here is the link of [my second Project](https://laura-liu-zj.github.io/ST558Project2/).
 
