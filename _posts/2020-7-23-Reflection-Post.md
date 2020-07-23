@@ -3,7 +3,7 @@ layout: post
 title: Reflection
 ---
 
-## What (if anything) has changed about what you think a data scientist is and what they do
+## What (if anything) has changed about what you think a data scientist is and what they do?
 The machine learning part changed my points of data scientists. When data scientists face a problem, they figure out whether it belongs to supervised learning or unsupervised learning. Besides, they would consider the computing time as well.
 
 ## What your current thoughts are in terms of using R for data science - do you think you'll continue to use R going forward?  Why or why not?
